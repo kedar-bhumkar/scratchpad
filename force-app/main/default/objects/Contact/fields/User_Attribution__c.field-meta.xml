@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>User_Attribution__c</fullName>
+    <label>User Attribution</label>
+    <description>Custom text field to store user attribution data</description>
+    <inlineHelpText>Enter user attribution information</inlineHelpText>
+    <type>Text</type>
+    <length>255</length>
+    <externalId>false</externalId>
+    <unique>false</unique>
+    <caseSensitive>false</caseSensitive>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>

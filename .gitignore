@@ -1,0 +1,22 @@
+# Salesforce cache
+.sf/
+.sfdx/
+.localdevserver/
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# MacOS system files
+.DS_Store
+
+# Local environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Temp files
+*.tmp
