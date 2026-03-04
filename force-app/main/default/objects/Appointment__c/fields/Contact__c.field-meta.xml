@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Contact__c</fullName>
+    <label>Contact</label>
+    <description>Lookup to Contact for the patient associated with this appointment</description>
+    <type>Lookup</type>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <referenceTo>Contact</referenceTo>
+    <relationshipLabel>Appointments</relationshipLabel>
+    <relationshipName>Appointments</relationshipName>
+    <deleteConstraint>SetNull</deleteConstraint>
+</CustomField>
