@@ -4,4 +4,6 @@
     <label>Active</label>
     <type>Checkbox</type>
     <defaultValue>false</defaultValue>
+    <required>false</required>
+    <externalId>false</externalId>
 </CustomField>
